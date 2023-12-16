@@ -1,6 +1,8 @@
 
 ## Building the Go REST API Service
 
+Golang-RESTApi with Mux and GORM
+
 1. **Build the Application:**
    Run the following command to build the Go REST API service:
   
